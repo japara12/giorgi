@@ -1,0 +1,170 @@
+#a{
+    background-color: aqua;
+    display: flex;
+  width: 100px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://t4.ftcdn.net/jpg/03/54/40/85/360_F_354408578_y4G5TQTNU8939O4L57mqGdoCuy1i7jXv.jpg);
+  background-size: 200%;
+  background-position-x: -245px;
+  background-position-y: -14px;
+  opacity: 80%;
+
+
+}
+h2{
+    color: black;
+    
+    letter-spacing: 10px;
+    
+
+}
+#s{
+    background-color: brown;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 300px;
+height: 100px;
+
+}
+#shop{
+    display: flex;
+    background-color: rgb(110, 4, 4);
+    width: 1200px;
+height: 100px;
+
+justify-content: center;
+align-items: center;
+
+
+
+
+}
+
+
+#mtavari{
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(161, 23, 23)
+    
+}
+#foto{
+    background-color: red;
+}
+#skull{
+   
+    display: block;
+    width: 1584px;
+    height: 650px;
+background-image: url(https://th.bing.com/th/id/R.8fe1538189f19dbba976c5a4c08d5918?rik=1Eu0%2fRYrzmz%2bpg&pid=ImgRaw&r=0);
+background-size: 1584px 650px;
+
+}
+.nivtebi{
+    background-color: darkmagenta;
+    
+    display: inline-block;
+    opacity: 100%;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 10px pink;
+    margin-right: 55px;
+    
+
+}
+#swords{
+    
+    background-color: black;
+    background-image: url(https://th.bing.com/th/id/OIP.PVXVHXkExG715EjRU7Hy2QHaHa?pid=ImgDet&rs=1);
+    background-size: 100%;
+    text-decoration: none;
+}
+#rum{
+background-image: url(https://i.pinimg.com/736x/1e/36/a9/1e36a9dd8e1bc78b77df7a5d3f616527.jpg);
+background-size: 20%;
+text-decoration: none;
+
+}
+#hats{
+    background-image: url(https://th.bing.com/th/id/OIP.2GmjEE4SIC2i7ftk0aWFZgHaHa?pid=ImgDet&rs=1);
+    background-position-y: -120px;
+    text-decoration: none;
+}
+#musket{
+    background-image: url(https://i.pinimg.com/originals/4d/97/9d/4d979d5c88c4ce9c1b865b5d87ea61de.jpg);
+    background-size: 80%;
+    background-position-x: 50px;
+    background-position-y: -50px;
+    text-decoration: none;
+}
+#ships{
+    background-image: url(https://w7.pngwing.com/pngs/232/402/png-transparent-pirate-ship-wooden-boat-ghost-ship-pirate-ship.png);
+    background-size: 20%;
+    text-decoration: none;
+}
+#pets{
+    background-image: url(https://www.mpg.de/18490336/original-1656406663.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MTg0OTAzMzZ9--9fae20441fec6fc549b18c2df95372b99979a919);
+    background-size: 20%;
+    text-decoration: none;
+
+
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    color: black;
+    font-size: 3em;
+    box-shadow: 0px 0px 2px;
+    
+}
+.article{
+width: 50%;
+   height: 250px;
+   border-radius: 10px;
+ background-color: antiquewhite;
+   display: flex;
+   
+   
+
+   
+   
+}
+.main{
+    display: flex;
+    width: 100%;
+    height: 800px;
+    background-color: gray;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 50px;
+    padding-left: 100px; 
+    
+
+    
+}
+.photo{
+width: 300px;
+height: 200px;
+padding: 25px;
+}
+
+.element{
+ display: block;
+ width: 40%;
+ height: 90px;
+ margin-top: 30px;
+ 
+}
+.paragraf{
+    margin-top: 100px;
+    margin-left: -280px;
+}
+
